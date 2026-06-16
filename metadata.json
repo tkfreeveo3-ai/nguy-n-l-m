@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Biên Kịch Video Ngắn",
+  "description": "Biến ý tưởng thô thành kịch bản shorts, tiktok chuyên nghiệp, phân phối 4 phân cảnh đồng nhất dễ dàng copy",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
